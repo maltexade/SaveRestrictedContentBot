@@ -15,7 +15,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 API_ID = 5072447
 API_HASH = "0868ddd7eea45fada738581d03fbfe4c"
 BOT_TOKEN = "5711820837:AAHDHYkQy8QOxBABBA1_m_Mx4LBAMmL8mvw"
-SESSION = "BQBqOLTAFJKA12k6Qx5sWenbV2Q4cIF44310BV7Lqv0d6nKqG-CWUKK7
+SESSION = "BAA_xs68E6dRriAySynXU8VBcHoti3DrNPJgcyw1WA-7KLD62IwYfajZesBDnMPGZlsREte8hWIIa7QHVh1E3Dfqyk3QbZyhc0qnP54ADrkYffRMmZuqmbHUGZUUTfSMRuWaizlwv5W2icOxQAYxjcGVNfRgbuktIQuDZcv7SK9EXgztdxR5A-DRssCeG7qMgrx7MDfpMAVOpucVW0RAjryYXTufza9bGX4xiKeh3C0Cfjtu9OAM_8VyNfFvoB6fdqfU_a9qA4Oj_pqWNsUl1POHKimjKAeazdpLGjfcrlMgufY-8fyN9UPhTC0dgibHOUVFJT7hThOs3suJJlkyQx3fKSONTwA"
 FORCESUB = "maltexade_tv"
 AUTH = 690195791
 
